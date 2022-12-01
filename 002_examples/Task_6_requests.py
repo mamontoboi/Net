@@ -2,7 +2,6 @@
 # та обробити відповіді. Необхідно попрактикуватися з urllib та бібліотекою requests.
 # Рекомендується спочатку спробувати виконати запити, використовуючи urllib, а потім спробувати
 # реалізувати те саме, використовуючи requests.
-
 import requests
 '''requests library are not for parsing of websites. Use beautifulsoup instead.'''
 
